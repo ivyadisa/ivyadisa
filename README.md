@@ -60,10 +60,10 @@ I love **building tools that simplify work and solve real problems**, from schoo
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **Student Management System** | React + Django full-stack app for schools | [View Repo](https://github.com/ivyadisa/student-management-system) |
-| **School ERP** | PHP & MySQL ERP system for school operations | [View Repo](https://github.com/ivyadisa/school-erp) |
-| **Beverage Shop Website** | React frontend website for a small business | [View Repo](https://github.com/ivyadisa/beverage-shop) |
-| **Portfolio Website** | My personal portfolio hosted on Vercel | [Visit Site](https://ivywebsite-8ktg.vercel.app) |
+| **Student Management System** | React + Django full-stack app for schools | [View Repo](https://github.com/ivyadisa/datascience-) |
+| **School ERP** | PHP & MySQL ERP system for school operations | [View Repo](https://github.com/ivyadisa/management) |
+| **Beverage Shop Website** | React frontend website for a small business | [View Repo](https://github.com/ivyadisa/learnSoft) |
+| **Portfolio Website** | My personal portfolio hosted on Vercel | [Visit Site](https://github.com/ivyadisa/tyrentproject) |
 
 ---
 
